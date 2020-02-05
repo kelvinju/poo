@@ -1,0 +1,6 @@
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\bin\Debug\TrabajoOtraves.exe.config
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\bin\Debug\TrabajoOtraves.exe
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\bin\Debug\TrabajoOtraves.pdb
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\obj\Debug\TrabajoOtraves.csprojResolveAssemblyReference.cache
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\obj\Debug\TrabajoOtraves.exe
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\MiprimeraSolucions\TrabajoOtraves\obj\Debug\TrabajoOtraves.pdb
