@@ -1,0 +1,6 @@
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\bin\Debug\inSuma.exe.config
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\bin\Debug\inSuma.exe
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\bin\Debug\inSuma.pdb
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\obj\Debug\inSuma.csprojResolveAssemblyReference.cache
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\obj\Debug\inSuma.exe
+c:\users\kelvin ruvalcaba\documents\visual studio 2015\Projects\inSuma\inSuma\obj\Debug\inSuma.pdb
