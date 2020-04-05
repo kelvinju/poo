@@ -1,0 +1,9 @@
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\bin\Debug\Array.exe.config
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\Array.exe
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\Array.pdb
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\bin\Debug\Array.exe
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\bin\Debug\Array.pdb
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\MiPrimeraClase.csprojResolveAssemblyReference.cache
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\Array.Form1.resources
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\Array.Properties.Resources.resources
+C:\Users\kelvin ruvalcaba\Desktop\List\Array\obj\Debug\MiPrimeraClase.csproj.GenerateResource.Cache
